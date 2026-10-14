@@ -93,10 +93,10 @@ O <b>Product Backlog</b> pode ser encontrado <a href="#">aqui</a>.
 
 <br>
 
-## [🏆 Definição de Pronto (DoD)](#)
+## [🏆 Plano de Entregas](#)
 
 <p style="text-align: justify;">
-A Definition of Done (DoD), é um acordo entre a equipe que estabelece os critérios de qualidade e requisitos técnicos necessários para considerar um item do backlog totalmente concluído.
+(Descrição)
 <br>
 O <b>DoD</b> pode ser encontrado <a href="#">aqui</a>.
 </p>
