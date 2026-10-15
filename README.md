@@ -84,21 +84,21 @@ greener/
 
 <br>
 
-## [📄 Product Backlog](#)
+## [📄 Product Backlog](https://github.com/greenstackfatec-tech/greener/blob/develop/docs/sprints/product-backlog.md)
 
 <p style="text-align: justify;">
 O Product Backlog é uma lista dinâmica e priorizada de todos os requisitos, funcionalidades, melhorias e correções necessários para o desenvolvimento de um produto.<br>
-O <b>Product Backlog</b> pode ser encontrado <a href="#">aqui</a>.
+O <b>Product Backlog</b> pode ser encontrado <a href="https://github.com/greenstackfatec-tech/greener/blob/develop/docs/sprints/product-backlog.md">aqui</a>.
 </p>
 
 <br>
 
-## [🏆 Plano de Entregas](#)
+## [🏆 Plano de Entregas](https://github.com/greenstackfatec-tech/greener/blob/develop/docs/plano%20de%20entregas.md)
 
 <p style="text-align: justify;">
 (Descrição)
 <br>
-O <b>DoD</b> pode ser encontrado <a href="#">aqui</a>.
+O <b>DoD</b> pode ser encontrado <a href="https://github.com/greenstackfatec-tech/greener/blob/develop/docs/plano%20de%20entregas.md">aqui</a>.
 </p>
 
 <br>
@@ -130,26 +130,7 @@ O <b>DoD</b> pode ser encontrado <a href="#">aqui</a>.
 <p style="text-align: justify;">
 (Detalhes da sprint)
 <br>
-O <b>Sprint Backlog</b> pode ser encontrado <a href="#">aqui</a>.
-</p>
-
-<br>
-
-## 🎯 Sprint 02:
-<p style="text-align: justify;">
-(Detalhes da sprint)
-<br>
-O <b>Sprint Backlog</b> pode ser encontrado <a href="#">aqui</a>.
-</p>
-
-<br>
-
-## 🎯 Sprint 03:
-
-<p style="text-align: justify;">
-(Detalhes da sprint)
-<br>
-O <b>Sprint Backlog</b> pode ser encontrado <a href="#">aqui</a>.
+O <b>Sprint Backlog</b> pode ser encontrado <a href="https://github.com/greenstackfatec-tech/greener/blob/develop/docs/sprints/sprint-1.md">aqui</a>.
 </p>
 
 <br>
@@ -158,7 +139,7 @@ O <b>Sprint Backlog</b> pode ser encontrado <a href="#">aqui</a>.
 
 | Tecnologia | Versão |
 |------------|---------|
-| ![My Skills](https://skillicons.dev/icons?i=js) | ES2023 |
+| ![My Skills](https://skillicons.dev/icons?i=ts) | v7.0 |
 | ![My Skills](https://skillicons.dev/icons?i=nodejs)| v22.16.0 |
 |![My Skills](https://skillicons.dev/icons?i=postgres) | v18.3 |
 | ![My Skills](https://skillicons.dev/icons?i=html)| HTML5 |
@@ -305,7 +286,7 @@ Servidor rodando em `http://localhost:3000`
       <td>Renan Santos</td>
       <td> Desenvolvedora </td>
       <td> <a href="https://github.com/renanrmsantos14" title="GitHub"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn"/> </a></td>
-      <td>  <a href="#" title="LinkedIn"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </td>
+      <td>  <a href="https://www.linkedin.com/in/renan-santos-40662738b/?isSelfProfile=true" title="LinkedIn"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </td>
    </tr>
    <tr>
       <td>
